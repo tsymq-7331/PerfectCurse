@@ -1,0 +1,8 @@
+[application]
+config/name="PerfectCurse"
+
+[dotnet]
+project/assembly_name="PerfectCurse"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"

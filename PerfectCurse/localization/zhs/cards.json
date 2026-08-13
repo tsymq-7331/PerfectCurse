@@ -1,0 +1,7 @@
+{
+  "PerfectCurse:Plague": {"TITLE": "疫病", "DESCRIPTION": "在手牌中时，回合结束获得 {PoisonPower} 层中毒。"},
+  "PerfectCurse:Rot": {"TITLE": "腐烂", "DESCRIPTION": "在手牌中时，所有手牌暂时失去升级效果。"},
+  "PerfectCurse:OldWound": {"TITLE": "旧伤", "DESCRIPTION": "在手牌中时，每打出一张牌，失去 {Damage} 点生命。"},
+  "PerfectCurse:Shackles": {"TITLE": "枷锁", "DESCRIPTION": "在手牌中时，每打出一张牌，对自己造成 {Damage} 点伤害。"},
+  "PerfectCurse:Shortage": {"TITLE": "短缺", "DESCRIPTION": "永恒。回合结束时若在手牌中，下回合少抽 2 张牌。"}
+}

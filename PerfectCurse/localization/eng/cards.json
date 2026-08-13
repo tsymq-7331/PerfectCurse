@@ -1,0 +1,7 @@
+{
+  "PerfectCurse:Plague": {"TITLE": "Plague", "DESCRIPTION": "At end of turn, if this is in your hand, gain {PoisonPower} Poison."},
+  "PerfectCurse:Rot": {"TITLE": "Rot", "DESCRIPTION": "While in hand, all cards in your hand temporarily lose their upgrades."},
+  "PerfectCurse:OldWound": {"TITLE": "Old Wound", "DESCRIPTION": "While in hand, lose {Damage} HP whenever you play a card."},
+  "PerfectCurse:Shackles": {"TITLE": "Shackles", "DESCRIPTION": "While in hand, take {Damage} damage whenever you play a card."},
+  "PerfectCurse:Shortage": {"TITLE": "Shortage", "DESCRIPTION": "Eternal. At end of turn, if this is in your hand, draw 2 fewer cards next turn."}
+}
