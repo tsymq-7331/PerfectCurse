@@ -1,0 +1,12 @@
+{
+  "PerfectCurse:CursedRedMask": {
+    "TITLE": "诅咒红面具",
+    "DESCRIPTION": "每场战斗开始时，自身获得 {WeakPower} 层虚弱。",
+    "FLAVOR": "它还记得曾经令敌人胆寒的样子。"
+  },
+  "PerfectCurse:CursedMarbleBag": {
+    "TITLE": "诅咒弹珠袋",
+    "DESCRIPTION": "每场战斗开始时，自身获得 {VulnerablePower} 层易伤。",
+    "FLAVOR": "袋中的弹珠彼此碰撞，发出不祥的轻响。"
+  }
+}

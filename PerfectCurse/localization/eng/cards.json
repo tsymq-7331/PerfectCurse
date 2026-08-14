@@ -3,5 +3,10 @@
   "PerfectCurse:Rot": {"TITLE": "Rot", "DESCRIPTION": "While in hand, all cards in your hand temporarily lose their upgrades."},
   "PerfectCurse:OldWound": {"TITLE": "Old Wound", "DESCRIPTION": "While in hand, lose {Damage} HP whenever you play a card."},
   "PerfectCurse:Shackles": {"TITLE": "Shackles", "DESCRIPTION": "While in hand, take {Damage} damage whenever you play a card."},
-  "PerfectCurse:Shortage": {"TITLE": "Shortage", "DESCRIPTION": "Eternal. At end of turn, if this is in your hand, draw 2 fewer cards next turn."}
+  "PerfectCurse:Shortage": {"TITLE": "Shortage", "DESCRIPTION": "Eternal. At end of turn, if this is in your hand, draw 2 fewer cards next turn."},
+  "PerfectCurse:CurseBlood": {"TITLE": "Curse Blood", "DESCRIPTION": "Whenever you draw a Curse, gain #b{StrengthGain} Strength."},
+  "PerfectCurse:StarlightAegis": {"TITLE": "Starlight Aegis", "DESCRIPTION": "Whenever you draw a Curse, gain #b{Block} Block."},
+  "PerfectCurse:UnexpectedDefect": {"TITLE": "Unexpected Defect", "DESCRIPTION": "Gain #b{Block} Block. Gain #b{EnergyGain} Energy. Draw #b{Draw} card(s). Add #b{CurseCount} random Curses to your hand."},
+  "PerfectCurse:RideThePoison": {"TITLE": "Ride the Poison", "DESCRIPTION": "Innate. Whenever you draw a Curse, immediately trigger its negative effect and Exhaust it, then apply #b{Poison} Poison to ALL enemies."},
+  "PerfectCurse:ReinforcedSmelting": {"TITLE": "Reinforced Smelting", "DESCRIPTION": "Deal #b{Damage} damage. Draw #b{Draw} card(s). You may Exhaust a Curse from your hand, draw pile, or discard pile. If you do, repeat these effects.", "SELECTION_SCREEN_PROMPT": "Choose a Curse to Exhaust."}
 }

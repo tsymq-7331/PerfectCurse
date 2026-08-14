@@ -1,5 +1,10 @@
+using MegaCrit.Sts2.Core.GameActions.Multiplayer;
+
 namespace PerfectCurse.Cards.Curses;
 
-// The combat behavior is installed by RotPatches so every card in the owner's hand
-// temporarily presents as unupgraded without mutating the permanent deck card.
-public sealed class Rot : PerfectCurseCard;
+// RotUpgradeSuppressionPatch temporarily presents cards in this hand as unupgraded.
+// The underlying deck cards are never mutated.
+public sealed class Rot : PerfectCurseCard, IImmediateCurseEffect
+{
+    public Task TriggerImmediateCurseEffect(PlayerChoiceContext choiceContext) => Task.CompletedTask;
+}

@@ -25,7 +25,7 @@
     <None Include="project.godot" />
     <None Include="PerfectCurse/**" />
   </ItemGroup>
-  <Target Name="CopyBetaPackage" AfterTargets="Build" Condition="Exists('$(TargetPath)')">
+  <Target Name="CopyBetaPackage" AfterTargets="PackPck" Condition="Exists('$(TargetPath)')">
     <PropertyGroup><BetaDir>$(MSBuildProjectDirectory)/dist/PerfectCurse</BetaDir></PropertyGroup>
     <MakeDir Directories="$(BetaDir)" />
     <Copy SourceFiles="$(TargetPath);PerfectCurse.json" DestinationFolder="$(BetaDir)" />

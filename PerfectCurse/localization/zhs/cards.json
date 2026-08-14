@@ -3,5 +3,10 @@
   "PerfectCurse:Rot": {"TITLE": "腐烂", "DESCRIPTION": "在手牌中时，所有手牌暂时失去升级效果。"},
   "PerfectCurse:OldWound": {"TITLE": "旧伤", "DESCRIPTION": "在手牌中时，每打出一张牌，失去 {Damage} 点生命。"},
   "PerfectCurse:Shackles": {"TITLE": "枷锁", "DESCRIPTION": "在手牌中时，每打出一张牌，对自己造成 {Damage} 点伤害。"},
-  "PerfectCurse:Shortage": {"TITLE": "短缺", "DESCRIPTION": "永恒。回合结束时若在手牌中，下回合少抽 2 张牌。"}
+  "PerfectCurse:Shortage": {"TITLE": "短缺", "DESCRIPTION": "永恒。回合结束时若在手牌中，下回合少抽 2 张牌。"},
+  "PerfectCurse:CurseBlood": {"TITLE": "诅咒之血", "DESCRIPTION": "每当你抽到诅咒牌时，获得 #b{StrengthGain} 点力量。"},
+  "PerfectCurse:StarlightAegis": {"TITLE": "星辉护佑", "DESCRIPTION": "每当你抽到诅咒牌时，获得 #b{Block} 点格挡。"},
+  "PerfectCurse:UnexpectedDefect": {"TITLE": "意外缺陷", "DESCRIPTION": "获得 #b{Block} 点格挡。获得 #b{EnergyGain} 点能量。抽 #b{Draw} 张牌。将 #b{CurseCount} 张随机诅咒加入你的手牌。"},
+  "PerfectCurse:RideThePoison": {"TITLE": "顺势而毒", "DESCRIPTION": "固有。每当你抽到一张诅咒，立即触发其负面效果并将其消耗，然后给予所有敌人 #b{Poison} 层中毒。"},
+  "PerfectCurse:ReinforcedSmelting": {"TITLE": "强化熔炼", "DESCRIPTION": "造成 #b{Damage} 点伤害。抽 #b{Draw} 张牌。你可以从手牌、抽牌堆或弃牌堆消耗一张诅咒；若如此做，重复上述效果。", "SELECTION_SCREEN_PROMPT": "选择一张要消耗的诅咒。"}
 }

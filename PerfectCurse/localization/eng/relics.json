@@ -1,0 +1,12 @@
+{
+  "PerfectCurse:CursedRedMask": {
+    "TITLE": "Cursed Red Mask",
+    "DESCRIPTION": "At the start of each combat, gain {WeakPower} Weak.",
+    "FLAVOR": "It remembers when enemies once feared its visage."
+  },
+  "PerfectCurse:CursedMarbleBag": {
+    "TITLE": "Cursed Marble Bag",
+    "DESCRIPTION": "At the start of each combat, gain {VulnerablePower} Vulnerable.",
+    "FLAVOR": "The marbles click against each other with an ill omen."
+  }
+}
