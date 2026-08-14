@@ -1,5 +1,6 @@
 {
   "PerfectCurse:CurseBloodPower": {"TITLE": "诅咒之血", "DESCRIPTION": "每当你抽到诅咒牌时，获得 #b{Amount} 点力量。"},
   "PerfectCurse:StarlightAegisPower": {"TITLE": "星辉护佑", "DESCRIPTION": "每当你抽到诅咒牌时，获得 #b{Amount} 点格挡。"},
-  "PerfectCurse:RideThePoisonPower": {"TITLE": "顺势而毒", "DESCRIPTION": "抽到诅咒时立即触发并消耗，然后给予所有敌人 #b{Amount} 层中毒。"}
+  "PerfectCurse:RideThePoisonPower": {"TITLE": "顺势而毒", "DESCRIPTION": "抽到诅咒时立即触发并消耗，然后给予所有敌人 #b{Amount} 层中毒。"},
+  "PerfectCurse:MaliciousInfusionPower": {"TITLE": "恶意注能", "DESCRIPTION": "下回合开始时召唤 #b{Amount}。"}
 }

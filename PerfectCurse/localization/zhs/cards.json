@@ -8,5 +8,10 @@
   "PerfectCurse:StarlightAegis": {"TITLE": "星辉护佑", "DESCRIPTION": "每当你抽到诅咒牌时，获得 #b{Block} 点格挡。"},
   "PerfectCurse:UnexpectedDefect": {"TITLE": "意外缺陷", "DESCRIPTION": "获得 #b{Block} 点格挡。获得 #b{EnergyGain} 点能量。抽 #b{Draw} 张牌。将 #b{CurseCount} 张随机诅咒加入你的手牌。"},
   "PerfectCurse:RideThePoison": {"TITLE": "顺势而毒", "DESCRIPTION": "固有。每当你抽到一张诅咒，立即触发其负面效果并将其消耗，然后给予所有敌人 #b{Poison} 层中毒。"},
-  "PerfectCurse:ReinforcedSmelting": {"TITLE": "强化熔炼", "DESCRIPTION": "造成 #b{Damage} 点伤害。抽 #b{Draw} 张牌。你可以从手牌、抽牌堆或弃牌堆消耗一张诅咒；若如此做，重复上述效果。", "SELECTION_SCREEN_PROMPT": "选择一张要消耗的诅咒。"}
+  "PerfectCurse:ReinforcedSmelting": {"TITLE": "强化熔炼", "DESCRIPTION": "造成 #b{Damage} 点伤害。抽 #b{Draw} 张牌。你可以从手牌、抽牌堆或弃牌堆消耗一张诅咒；若如此做，重复上述效果。", "SELECTION_SCREEN_PROMPT": "选择一张要消耗的诅咒。"},
+  "PerfectCurse:MaliciousInfusion": {"TITLE": "恶意注能", "DESCRIPTION": "召唤 #b{Summon}。你可以消耗一张手牌中的诅咒；若如此做，下回合开始时召唤 #b{Summon}。", "SELECTION_SCREEN_PROMPT": "选择一张要消耗的诅咒。"},
+  "PerfectCurse:Lust": {"TITLE": "色欲", "DESCRIPTION": "在手牌中时，你无法打出攻击牌。"},
+  "PerfectCurse:Prejudice": {"TITLE": "偏见", "DESCRIPTION": "在手牌中时，你无法打出技能牌。"},
+  "PerfectCurse:Amnesia": {"TITLE": "失忆", "DESCRIPTION": "在手牌中时，你无法打出能力牌。"},
+  "PerfectCurse:Brutality": {"TITLE": "野蛮", "DESCRIPTION": "固有。保留。在手牌中时，你无法获得格挡。"}
 }

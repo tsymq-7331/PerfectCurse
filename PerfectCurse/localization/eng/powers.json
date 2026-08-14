@@ -1,5 +1,6 @@
 {
   "PerfectCurse:CurseBloodPower": {"TITLE": "Curse Blood", "DESCRIPTION": "Whenever you draw a Curse, gain #b{Amount} Strength."},
   "PerfectCurse:StarlightAegisPower": {"TITLE": "Starlight Aegis", "DESCRIPTION": "Whenever you draw a Curse, gain #b{Amount} Block."},
-  "PerfectCurse:RideThePoisonPower": {"TITLE": "Ride the Poison", "DESCRIPTION": "Drawn Curses trigger immediately and are Exhausted, then ALL enemies gain #b{Amount} Poison."}
+  "PerfectCurse:RideThePoisonPower": {"TITLE": "Ride the Poison", "DESCRIPTION": "Drawn Curses trigger immediately and are Exhausted, then ALL enemies gain #b{Amount} Poison."},
+  "PerfectCurse:MaliciousInfusionPower": {"TITLE": "Malicious Infusion", "DESCRIPTION": "At the start of your next turn, Summon #b{Amount}."}
 }

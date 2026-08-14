@@ -8,5 +8,10 @@
   "PerfectCurse:StarlightAegis": {"TITLE": "Starlight Aegis", "DESCRIPTION": "Whenever you draw a Curse, gain #b{Block} Block."},
   "PerfectCurse:UnexpectedDefect": {"TITLE": "Unexpected Defect", "DESCRIPTION": "Gain #b{Block} Block. Gain #b{EnergyGain} Energy. Draw #b{Draw} card(s). Add #b{CurseCount} random Curses to your hand."},
   "PerfectCurse:RideThePoison": {"TITLE": "Ride the Poison", "DESCRIPTION": "Innate. Whenever you draw a Curse, immediately trigger its negative effect and Exhaust it, then apply #b{Poison} Poison to ALL enemies."},
-  "PerfectCurse:ReinforcedSmelting": {"TITLE": "Reinforced Smelting", "DESCRIPTION": "Deal #b{Damage} damage. Draw #b{Draw} card(s). You may Exhaust a Curse from your hand, draw pile, or discard pile. If you do, repeat these effects.", "SELECTION_SCREEN_PROMPT": "Choose a Curse to Exhaust."}
+  "PerfectCurse:ReinforcedSmelting": {"TITLE": "Reinforced Smelting", "DESCRIPTION": "Deal #b{Damage} damage. Draw #b{Draw} card(s). You may Exhaust a Curse from your hand, draw pile, or discard pile. If you do, repeat these effects.", "SELECTION_SCREEN_PROMPT": "Choose a Curse to Exhaust."},
+  "PerfectCurse:MaliciousInfusion": {"TITLE": "Malicious Infusion", "DESCRIPTION": "Summon #b{Summon}. You may Exhaust a Curse from your hand. If you do, Summon #b{Summon} at the start of your next turn.", "SELECTION_SCREEN_PROMPT": "Choose a Curse to Exhaust."},
+  "PerfectCurse:Lust": {"TITLE": "Lust", "DESCRIPTION": "While this is in your hand, you cannot play Attacks."},
+  "PerfectCurse:Prejudice": {"TITLE": "Prejudice", "DESCRIPTION": "While this is in your hand, you cannot play Skills."},
+  "PerfectCurse:Amnesia": {"TITLE": "Amnesia", "DESCRIPTION": "While this is in your hand, you cannot play Powers."},
+  "PerfectCurse:Brutality": {"TITLE": "Brutality", "DESCRIPTION": "Innate. Retain. While this is in your hand, you cannot gain Block."}
 }
