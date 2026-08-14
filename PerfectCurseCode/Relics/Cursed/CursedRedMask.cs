@@ -5,10 +5,11 @@ using MegaCrit.Sts2.Core.Combat;
 using MegaCrit.Sts2.Core.Entities.Creatures;
 using MegaCrit.Sts2.Core.Localization.DynamicVars;
 using MegaCrit.Sts2.Core.Models.Powers;
+using MegaCrit.Sts2.Core.Models.Relics;
 
 namespace PerfectCurse.Relics.Cursed;
 
-public sealed class CursedRedMask : PerfectCurseRelic
+public sealed class CursedRedMask : CursedRelic<RedMask>
 {
     public override RelicRarity Rarity => RelicRarity.Common;
     protected override IEnumerable<DynamicVar> CanonicalVars => [new PowerVar<WeakPower>(1m)];

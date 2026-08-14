@@ -14,6 +14,6 @@ public partial class MainFile : Node
     public static void Initialize()
     {
         new Harmony(ModId).PatchAll();
-        Logger.Info("Perfect Curse v0.1.0-alpha.2 initialized. Design: 龙娘无限好.");
+        Logger.Info("Perfect Curse v0.1.0-alpha.3 initialized. Design: 龙娘无限好.");
     }
 }
