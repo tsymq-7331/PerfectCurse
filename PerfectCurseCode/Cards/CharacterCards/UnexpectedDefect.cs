@@ -42,14 +42,18 @@ public sealed class UnexpectedDefect : PerfectCurseContentCard
     {
         var runState = RunState ?? throw new InvalidOperationException("Unexpected Defect requires an active run.");
         var combatState = CombatState ?? throw new InvalidOperationException("Unexpected Defect requires an active combat.");
-        var index = runState.Rng.CombatCardGeneration.NextInt(5);
+        var index = runState.Rng.CombatCardGeneration.NextInt(9);
         return index switch
         {
             0 => combatState.CreateCard<Plague>(Owner),
             1 => combatState.CreateCard<Rot>(Owner),
             2 => combatState.CreateCard<OldWound>(Owner),
             3 => combatState.CreateCard<Shackles>(Owner),
-            _ => combatState.CreateCard<Shortage>(Owner)
+            4 => combatState.CreateCard<Shortage>(Owner),
+            5 => combatState.CreateCard<SelfAbasement>(Owner),
+            6 => combatState.CreateCard<Gluttony>(Owner),
+            7 => combatState.CreateCard<Dissociation>(Owner),
+            _ => combatState.CreateCard<Blank>(Owner)
         };
     }
 
