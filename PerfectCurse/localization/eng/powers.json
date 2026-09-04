@@ -1,6 +1,16 @@
 {
-  "PerfectCurse:CurseBloodPower": {"TITLE": "Curse Blood", "DESCRIPTION": "Whenever you draw a Curse, gain #b{Amount} Strength."},
-  "PerfectCurse:StarlightAegisPower": {"TITLE": "Starlight Aegis", "DESCRIPTION": "Whenever you draw a Curse, gain #b{Amount} Block."},
-  "PerfectCurse:RideThePoisonPower": {"TITLE": "Ride the Poison", "DESCRIPTION": "Drawn Curses trigger immediately and are Exhausted, then ALL enemies gain #b{Amount} Poison."},
-  "PerfectCurse:MaliciousInfusionPower": {"TITLE": "Malicious Infusion", "DESCRIPTION": "At the start of your next turn, Summon #b{Amount}."}
+  "PerfectCurse:CurseBloodPower.title": "Curse Blood",
+  "PerfectCurse:CurseBloodPower.description": "Whenever you draw a Curse, gain #b{Amount} Strength.",
+  "PerfectCurse:StarlightAegisPower.title": "Starlight Aegis",
+  "PerfectCurse:StarlightAegisPower.description": "Whenever you draw a Curse, gain #b{Amount} Block.",
+  "PerfectCurse:RideThePoisonPower.title": "Ride the Poison",
+  "PerfectCurse:RideThePoisonPower.description": "Drawn Curses trigger immediately and are Exhausted, then ALL enemies gain #b{Amount} Poison.",
+  "PerfectCurse:MaliciousInfusionPower.title": "Malicious Infusion",
+  "PerfectCurse:MaliciousInfusionPower.description": "At the start of your next turn, Summon #b{Amount}.",
+  "PerfectCurse:DissociationPower.title": "Dissociation",
+  "PerfectCurse:DissociationPower.description": "Become Confused next turn, then remove that Confusion at the end of the turn.",
+  "PerfectCurse:BetrayalPower.title": "Betrayal",
+  "PerfectCurse:BetrayalPower.description": "At the start of each of your next #b{Amount} turns, lose 1 Energy.",
+  "PerfectCurse:WeightlessnessPower.title": "Weightlessness",
+  "PerfectCurse:WeightlessnessPower.description": "At the start of your next turn, invert your Strength and Dexterity."
 }

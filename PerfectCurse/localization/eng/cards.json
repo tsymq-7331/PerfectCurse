@@ -40,5 +40,13 @@
   "PerfectCurse:Dissociation.title": "Dissociation",
   "PerfectCurse:Dissociation.description": "If this is in your hand at the end of your turn, become Confused next turn.",
   "PerfectCurse:Blank.title": "Blank",
-  "PerfectCurse:Blank.description": "Whenever this card enters your Discard Pile, move it to the top of your Draw Pile."
+  "PerfectCurse:Blank.description": "Eternal. Innate. Retain. Whenever this card enters your Exhaust Pile, move it to the top of your Draw Pile.",
+  "PerfectCurse:BurningAlive.title": "Burning Alive",
+  "PerfectCurse:BurningAlive.description": "Retain. When drawn, add 2 Upgraded Burns to your Draw Pile.",
+  "PerfectCurse:Betrayal.title": "Betrayal",
+  "PerfectCurse:Betrayal.description": "Eternal. Innate. At the end of your turn, if this is in your hand, gain 3 Vulnerable, Weak, Shrink, and Frail; lose 3 Strength and Dexterity; then lose 1 Energy at the start of each of your next 3 turns.",
+  "PerfectCurse:Indoctrination.title": "Indoctrination",
+  "PerfectCurse:Indoctrination.description": "Eternal. Innate. Ethereal.",
+  "PerfectCurse:Weightlessness.title": "Weightlessness",
+  "PerfectCurse:Weightlessness.description": "At the end of your turn, if this is in your hand, invert your Strength and Dexterity at the start of your next turn."
 }

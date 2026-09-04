@@ -40,5 +40,13 @@
   "PerfectCurse:Dissociation.title": "解离",
   "PerfectCurse:Dissociation.description": "回合结束时若在手牌中，下个回合获得混乱。",
   "PerfectCurse:Blank.title": "空白",
-  "PerfectCurse:Blank.description": "每当此牌进入弃牌堆时，将其移至抽牌堆顶。"
+  "PerfectCurse:Blank.description": "永恒。固有。保留。每当此牌进入消耗牌堆时，将其移至抽牌堆顶。",
+  "PerfectCurse:BurningAlive.title": "烈火焚身",
+  "PerfectCurse:BurningAlive.description": "保留。抽到时，将2张已升级的灼烧加入抽牌堆。",
+  "PerfectCurse:Betrayal.title": "背叛",
+  "PerfectCurse:Betrayal.description": "永恒。固有。回合结束时若在手牌中，获得3层易伤、虚弱、缩小和脆弱，失去3点力量与敏捷，并在接下来3个回合开始时失去1点能量。",
+  "PerfectCurse:Indoctrination.title": "教化",
+  "PerfectCurse:Indoctrination.description": "永恒。固有。虚无。",
+  "PerfectCurse:Weightlessness.title": "失重",
+  "PerfectCurse:Weightlessness.description": "回合结束时若在手牌中，下个自身回合开始时反转力量和敏捷的正负值。"
 }
